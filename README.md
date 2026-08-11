@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm shamim hasnain (shadid)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Software Development Engineer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadid06&label=Profile%20views&color=0e75b6&style=flat" alt="shadid06" /> </p>
 
-- 🔭 I’m currently working on [Procure To Payment Automation](https://p2p.ssgil.com/)
+- 🔭 I’m currently working on [(BRB) Smart Warranty Management]
 
-- 💬 Ask me about **ReactJs, NextJs, Flutter, JavaScript, TypeScript**
+- 💬 Ask me about **ReactJs, NextJs, Flutter, JavaScript, TypeScript, ExpressJs, Prisma, Postgresql**
 
 - 📫 How to reach me **hasnain.cse01@gmail.com**
 
